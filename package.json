@@ -1,5 +1,5 @@
 {
-  "name": "react-enzyme-test",
+  "name": "rtl-tdd-todos",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,8 +30,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@types/jest": "^26.0.7"
   }
 }
